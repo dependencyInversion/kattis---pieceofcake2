@@ -1,0 +1,9 @@
+[package]
+name = "piece_of_cake"
+version = "0.1.0"
+authors = ["dependencyInversion <wennmann@protonmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
